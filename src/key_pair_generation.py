@@ -1,6 +1,6 @@
 from random import randint
 
-from keys import Key
+from .keys import Key
 from .modular_arithmetic import gcd, modinv
 
 def generate_key_pair(prime_1, prime_2):
