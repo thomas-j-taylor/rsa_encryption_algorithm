@@ -1,0 +1,3 @@
+# rsa algorithm
+Firstly, do not use any part of this for real cryptographic purposes. I created this to practice structuring a python project correctly, with well formatted docstrings and the first real unit tests I've ever written. If you want a tool for real cryptographic purposes, use gpg.
+My aim here is to create a working implementation of the rsa encryption algorithm. It will not conform to any particular protocol regarding the storage of keys or encrypted data. When this project is finished it should contain all of the components necessary to generate a key-pair, and to encrypt and decrypt a file.
